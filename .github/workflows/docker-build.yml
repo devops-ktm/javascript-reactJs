@@ -9,4 +9,4 @@ jobs:
   call-central-action:
     uses: devops-ktm/centralized-docker-action/.github/workflows/docker-build.yml@main
     with:
-      image_name: react-bmi-calculator
+      image_name: javascript-reactjs
